@@ -1,6 +1,13 @@
-#Stats220 Repository#
-#####All work is made by Sameer Anand and Sameer Anand Only#####
-**X***X*For any permission to view more work, please ask Sameer Personally
+# Stats220 Repository
+##### Sameer Anand
+***All work is made by Sameer Anand and Sameer Anand Only***
+
+Hello There! 
+This is my Repo for stats 220, very excited that you are here!
+While you are here, go take a look at my [portfolio!](https://sameeranand211.myportfolio.com/)
+
+
+
 
 
 
