@@ -1,5 +1,5 @@
 # Stats220 Repository
-##### Sameer Anand
+### Sameer Anand
 ***All work is made by Sameer Anand and Sameer Anand Only***
 
 Hello There! 
